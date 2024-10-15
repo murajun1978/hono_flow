@@ -1,2 +1,2 @@
 # HonoFlow
-HonoFlow is a data flow tool developed by [hono](https://github.com/honojs/hono)
+HonoFlow is a data flow tool build by [hono](https://github.com/honojs/hono)
