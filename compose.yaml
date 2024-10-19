@@ -1,0 +1,9 @@
+services:
+  app:
+    image: oven/bun:1
+    working_dir: /app
+    command: bun dev
+    volumes:
+      - .:/app
+    ports:
+      - "3000:3000"
